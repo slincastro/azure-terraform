@@ -14,4 +14,14 @@
 
 `terraform init`
 
+* Generate Plan
+
 `terraform plan -out test.tfplan`
+
+* Apply infrastructure
+
+`terraform apply`
+
+* Destroy infrastructure
+
+`terraform destroy`
