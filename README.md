@@ -20,7 +20,7 @@
 
 * Apply infrastructure
 
-`terraform apply`
+`terraform apply -var-file="configurations.tfvars" `
 
 * Destroy infrastructure
 
